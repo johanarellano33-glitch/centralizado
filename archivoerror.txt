@@ -1,1 +1,2 @@
-linea de texto modificada en main
+linea de texto modificada en main y en rama
+>>>>>>> 2253cfc (modifico en rama)
